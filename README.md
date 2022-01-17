@@ -1,4 +1,5 @@
 # movieBST
 
-mvn clean install \n
+mvn clean install
+
 mvn spring-boot:run
